@@ -33,19 +33,19 @@
   ],
   "anchors": [
     {
-      "name": "Documentation",
+      "name": "Main Site",
       "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
+      "url": "https://walvias.codecmdr.dev/"
     },
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://discord.gg/D43QUuZv6a"
     },
     {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
+      "name": "Invite",
+      "icon": "invite",
+      "url": "https://discord.com/oauth2/authorize?client_id=1244769231078424618&permissions=398291369040&integration_type=0&scope=bot+applications.commands"
     }
   ],
   "navigation": [
